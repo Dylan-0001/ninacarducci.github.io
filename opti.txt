@@ -12,7 +12,7 @@ Ajout des "alt" manquant au balise "img"
 Modification des "alt" avec un contenue plus approprier
 Ajout d'une action dans le formulaire "form" de la section "contact"
 Modification du path des differentes image suite au changement de leur noms
-
+Ajout du loading lazy au image dans la section "gallery"
 =============== STRUCTURE =============================================
 Changement des noms de toutes les images (réduction des noms à l'essentiel)
 Modification du format de certaine image de "png" à "jpg"
