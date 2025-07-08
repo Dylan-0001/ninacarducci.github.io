@@ -14,8 +14,7 @@ Ajout d'une action dans le formulaire "form" de la section "contact"
 Modification du path des differentes image suite au changement de leur noms
 Ajout du loading lazy au image dans la section "gallery"
 Connexion des labels au inputs associé
-Remplacement de "h3" à "h1" pour une meilleur logique au niveau des titres dans la section About
-Remplacement de "h6" à "h2" pour une meilleur logique au niveau des titres dans la section About
+Optimisation des ordres des titres "hn" dans toute la page html
 
 =============== STRUCTURE =============================================
 Changement des noms de toutes les images (réduction des noms à l'essentiel)
