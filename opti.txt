@@ -1,0 +1,8 @@
+Remplacement de la div "top-header" par la balise "header"
+Remplacement de la div "nav" par la balise "nav"
+Remplacement de la div "header" par la balise "section"
+Remplacement de la div "about" par la balise "section"
+Rempalcement de la div "gallery" par la balise "section"
+Remplacement de la div "services" par la balise "section"
+Remplacement de la div "quote" par la balise "section"
+Remplacement de la div "contact" par la balise "section"
