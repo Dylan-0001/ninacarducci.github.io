@@ -1,3 +1,4 @@
+=============== HTML ==================================================
 Remplacement de la div "top-header" par la balise "header"
 Remplacement de la div "nav" par la balise "nav"
 Remplacement de la div "header" par la balise "section"
@@ -6,3 +7,12 @@ Rempalcement de la div "gallery" par la balise "section"
 Remplacement de la div "services" par la balise "section"
 Remplacement de la div "quote" par la balise "section"
 Remplacement de la div "contact" par la balise "section"
+Ajout d'un title dans le "head"
+Ajout des "alt" manquant au balise "img"
+Modification des "alt" avec un contenue plus approprier
+Ajout d'une action dans le formulaire "form" de la section "contact"
+Modification du path des differentes image suite au changement de leur noms
+
+=============== STRUCTURE =============================================
+Changement des noms de toutes les images (réduction des noms à l'essentiel)
+Modification du format de certaine image de "png" à "jpg"
