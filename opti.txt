@@ -16,3 +16,4 @@ Ajout du loading lazy au image dans la section "gallery"
 =============== STRUCTURE =============================================
 Changement des noms de toutes les images (réduction des noms à l'essentiel)
 Modification du format de certaine image de "png" à "jpg"
+Optimisation de la taille (MO/KO) des images présentes dans les assets
