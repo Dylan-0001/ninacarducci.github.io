@@ -20,3 +20,14 @@ Optimisation des ordres des titres "hn" dans toute la page html
 Changement des noms de toutes les images (réduction des noms à l'essentiel)
 Mifify le fichier css et les fichiers javascript
 Ajout de versionning des images pour un cache optimisé
+
+
+
+https://squoosh.app/
+
+//TODO
+- Compresser les images avec Squoosh
+- Modifié description pour ajouter location & name photograph
+- Ajouter meta pour les r.s
+- voir minification
+- voir cours pour autres
