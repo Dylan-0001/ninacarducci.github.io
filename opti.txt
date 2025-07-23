@@ -26,7 +26,7 @@ Ajout de versionning des images pour un cache optimisé
 https://squoosh.app/
 
 //TODO
-- Compresser les images avec Squoosh
+- Compresser les images avec Squoosh [✔] 
 - Ajouter meta pour les r.s
 - voir minification
 - voir cours pour autres
