@@ -27,7 +27,22 @@ https://squoosh.app/
 
 //TODO
 - Compresser les images avec Squoosh
-- Modifié description pour ajouter location & name photograph
 - Ajouter meta pour les r.s
 - voir minification
 - voir cours pour autres
+
+
+
+INFOS:
+68  avenue Alsace lorène 33200 Bordeeau
+0556677889
+
+lundi au vendredi de 10h à 19H
+
+Services:
+
+Optimisation global du site (performance / SEO)
+Référencement local avec schema.org
+Ajouter les meta pour les R.S
+Faire modification lié à l'accéssibilité du site
+Faire raport d'optimisation avec toutes les actions faites et leur impactes (google reach snipper pour seo + wave pour l'accéssibilité)
