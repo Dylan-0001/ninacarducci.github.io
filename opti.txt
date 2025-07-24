@@ -27,9 +27,9 @@ https://squoosh.app/
 
 //TODO
 - Compresser les images avec Squoosh [✔] 
-- Ajouter meta pour les r.s
-- voir minification
-- voir cours pour autres
+- Ajouter meta pour les r.s [✔] 
+- voir minification [✔] 
+- voir cours pour autres [✔] 
 
 
 
