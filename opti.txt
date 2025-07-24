@@ -46,3 +46,11 @@ Référencement local avec schema.org
 Ajouter les meta pour les R.S
 Faire modification lié à l'accéssibilité du site
 Faire raport d'optimisation avec toutes les actions faites et leur impactes (google reach snipper pour seo + wave pour l'accéssibilité)
+
+
+SEO (MOT CLES):
+- Photographe professionnelle 
+- Photographe Portrait
+- Photographe Mariages
+- Photographe Entreprise
+- Portfolio Evenement d'entreprise

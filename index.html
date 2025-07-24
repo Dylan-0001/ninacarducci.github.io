@@ -1,23 +1,33 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
-		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="UTF-8">
+		
+		<title>Nina Carducci</title>
+		<meta name="description" content="Nina Carducci,Photographe professionnelle situé à Bordeaux, spécialisée en portraits, mariages et événements d'entreprise. Découvrez mon portfolio.">
+		
+		<!-- meta R.S -->
+		<meta property="og:title" content="Nina Carducci - Photographe professionnel" />
+		<meta property="og:description" content="Photographe professionnelle situé à Bordeaux, spécialisée en événements, portraits et reportages. Découvrez mon portfolio." />
+		<meta property="og:image" content="https://dylan-0001.github.io/ninacarducci.github.io/assets/slider/edward-cisneros-v1.webp" />
+		<meta property="og:url" content="https://dylan-0001.github.io/ninacarducci.github.io/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:site_name" content="Nina Carducci" />
 
-		<title>Nina Carducci - Photographe professionnelle à Bordeaux</title>
-		<meta name="description" content="Portfolio de Nina Carducci, photographe professionnelle à Bordeaux. Spécialisée en portraits, mariages et événements d'entreprise. Découvrez son travail.">
-		<link rel="canonical" href="https://dylan-0001.github.io/">
-
+		<!-- DEV -->
+		<!--
+			<link rel="stylesheet" href="./assets/style.css">
+		-->
+		<!-- PROD -->
+		<link rel="stylesheet" href="./assets/style.min.css">
+		
+		<link rel="canonnial" href="https://dylan-0001.github.io/ninacarducci.github.io/">
+		<link rel="stylesheet" href="./assets/bootstrap/bootstrap.css">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="https://fonts.googleapis.com/css2?family=Inter&family=Spectral:ital,wght@0,400;1,300;1,400;1,800&display=swap" rel="stylesheet">
-
-		<link rel="preload" href="./assets/bootstrap/bootstrap.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-		<noscript><link rel="stylesheet" href="./assets/bootstrap/bootstrap.css"></noscript>
-
-		<link rel="stylesheet" href="./assets/style.css">
 	</head>
-
 	<body>
 		<header class="top-header">
 			<h1 class="name">Nina Carducci</h1>
@@ -159,10 +169,38 @@
 			</div>
 		</section>
 	
-	<script src="https://code.jquery.com/jquery-3.4.1.min.js" defer integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-	<script src="./assets/bootstrap/bootstrap.bundle.js" defer></script>
-	<script src="./assets/maugallery.js" defer></script>
-	<script src="./assets/scripts.js" defer></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+	<script src="./assets/bootstrap/bootstrap.bundle.js"></script>
+
+	<!-- DEV -->
+	<!--
+		<script src="./assets/scripts.js" defer></script>
+		<script src="./assets/maugallery.js" defer></script>
+	-->
+	<!-- PROD -->
+	<script src="./assets/scripts.min.js" defer></script>
+	<script src="./assets/maugallery.min.js" defer></script>
+	
+	<script type="application/ld+json">
+		{
+		"@context": "https://schema.org",
+		"@type": "LocalBusiness",
+		"name": "Nina Carducci",
+		"image": "https://dylan-0001.github.io/ninacarducci.github.io/assets/slider/edward-cisneros-v1.webp",
+		"url": "https://dylan-0001.github.io/ninacarducci.github.io/",
+		"address": {
+			"@type": "PostalAddress",
+			"streetAddress": "68 avenue Alsace-Lorraine",
+			"addressLocality": "Bordeaux",
+			"postalCode": "33200",
+			"addressCountry": "FR"
+		},
+		"openingHours": [
+			"Mo-Fr 10:00-19:00"
+		],
+		"telephone": "+33 5 56 67 78 89"
+		}
+	</script>
 
 	</body>
 </html>

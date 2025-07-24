@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dylan-0001.github.io/ninacarducci.github.io/sitemap.xml
