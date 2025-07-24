@@ -9,19 +9,18 @@ Remplacement de la div "quote" par la balise "section"
 Remplacement de la div "contact" par la balise "section"
 Ajout d'un title dans le "head"
 Ajout des "alt" manquant au balise "img"
-Modification des "alt" avec un contenue plus approprier
 Ajout d'une action dans le formulaire "form" de la section "contact"
-Modification du path des differentes image suite au changement de leur noms
+Modification du path des differentes image suite au changement de leur noms et de leur format
 Ajout du loading lazy au image dans la section "gallery"
 Connexion des labels au inputs associé
 Optimisation des ordres des titres "hn" dans toute la page html
 
 =============== STRUCTURE =============================================
-Changement des noms de toutes les images (réduction des noms à l'essentiel)
+Changement des noms de toutes les images et le format en webp
 Mifify le fichier css et les fichiers javascript
 Ajout de versionning des images pour un cache optimisé
 
-
+=======================================================================================================================================
 
 https://squoosh.app/
 
@@ -29,16 +28,14 @@ https://squoosh.app/
 - Compresser les images avec Squoosh [✔] 
 - Ajouter meta pour les r.s [✔] 
 - voir minification [✔] 
-- voir cours pour autres [✔] 
 
-
-
+====================================================================
 INFOS:
 68  avenue Alsace lorène 33200 Bordeeau
 0556677889
-
 lundi au vendredi de 10h à 19H
 
+====================================================================
 Services:
 
 Optimisation global du site (performance / SEO)
@@ -47,10 +44,16 @@ Ajouter les meta pour les R.S
 Faire modification lié à l'accéssibilité du site
 Faire raport d'optimisation avec toutes les actions faites et leur impactes (google reach snipper pour seo + wave pour l'accéssibilité)
 
-
+====================================================================
 SEO (MOT CLES):
 - Photographe professionnelle 
 - Photographe Portrait
 - Photographe Mariages
 - Photographe Entreprise
 - Portfolio Evenement d'entreprise
+
+====================================================================
+//TODO Demander si il faut utiliser les srcset pour le "improve image delivery"
+//TODO Demander pourquoi "Render blocking requests"
+//TODO Demander c'est quoi "Layout shift culprits"
+//TODO Demander c'est quoi "Network dependency tree"
