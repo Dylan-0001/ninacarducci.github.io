@@ -25,3 +25,13 @@ SEO (MOT CLES):
 - Portfolio Evenement d'entreprise
 
 ====================================================================
+TODO:
+
+- Revoir taille text
+- Revoir taille images
+- Mettre meta twitter (r.s)
+- Essayer patch problème contraste
+- Test de mettre cdn bootstrap
+- Finir rapport optimisation 
+
+[Préparer soutenance]
