@@ -1,33 +1,5 @@
-=============== HTML ==================================================
-Remplacement de la div "top-header" par la balise "header"
-Remplacement de la div "nav" par la balise "nav"
-Remplacement de la div "header" par la balise "section"
-Remplacement de la div "about" par la balise "section"
-Rempalcement de la div "gallery" par la balise "section"
-Remplacement de la div "services" par la balise "section"
-Remplacement de la div "quote" par la balise "section"
-Remplacement de la div "contact" par la balise "section"
-Ajout d'un title dans le "head"
-Ajout des "alt" manquant au balise "img"
-Ajout d'une action dans le formulaire "form" de la section "contact"
-Modification du path des differentes image suite au changement de leur noms et de leur format
-Ajout du loading lazy au image dans la section "gallery"
-Connexion des labels au inputs associé
-Optimisation des ordres des titres "hn" dans toute la page html
-
-=============== STRUCTURE =============================================
-Changement des noms de toutes les images et le format en webp
-Mifify le fichier css et les fichiers javascript
-Ajout de versionning des images pour un cache optimisé
-
-=======================================================================================================================================
-
 https://squoosh.app/
 
-//TODO
-- Compresser les images avec Squoosh [✔] 
-- Ajouter meta pour les r.s [✔] 
-- voir minification [✔] 
 
 ====================================================================
 INFOS:
@@ -53,7 +25,3 @@ SEO (MOT CLES):
 - Portfolio Evenement d'entreprise
 
 ====================================================================
-//TODO Demander si il faut utiliser les srcset pour le "improve image delivery"
-//TODO Demander pourquoi "Render blocking requests"
-//TODO Demander c'est quoi "Layout shift culprits"
-//TODO Demander c'est quoi "Network dependency tree"
