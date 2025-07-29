@@ -27,7 +27,6 @@ SEO (MOT CLES):
 ====================================================================
 TODO:
 
-- Essayer patch problème contraste
 - Finir /Revoir rapport optimisation 
 
 [Préparer soutenance]
