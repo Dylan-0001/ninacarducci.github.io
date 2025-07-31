@@ -27,7 +27,5 @@ SEO (MOT CLES):
 ====================================================================
 TODO:
 
-- Finir /Revoir rapport optimisation 
-
 [Préparer soutenance]
 
